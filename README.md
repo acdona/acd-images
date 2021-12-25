@@ -13,5 +13,5 @@ A. C. <b>Doná - 2.022</b>
 </p >
 <br>
 <p align = "right">
- <img src="https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png" alt="acdona" width="200">
+ <img src="https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png" alt="acdona" width="120">
 </p >
