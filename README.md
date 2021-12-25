@@ -5,5 +5,6 @@
 A. C. <b>Doná - 2.022</b>
 </h1>
 <br>
-
+<center>
 ### ![Click here to download latest version](https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png)
+</center>
